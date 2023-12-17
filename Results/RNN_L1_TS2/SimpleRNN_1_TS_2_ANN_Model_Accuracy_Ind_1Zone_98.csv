@@ -1,0 +1,2 @@
+ANN Model Name,Training Mean Error,Testing Mean Error Without Simulation,Testing Mean Error With Simulation,Final Train Error,Final Train Loss,Final Val Error,Final Val Loss,Time/Iteration
+SimpleRNN_1_TS_2,1.0761055520358462,0.5584540425514366,5.239217309304382,0.015000876039266586,0.015694711357355118,366.7460021972656,466.42071533203125,0.00723891065578268

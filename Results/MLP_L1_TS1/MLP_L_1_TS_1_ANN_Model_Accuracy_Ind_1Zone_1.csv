@@ -1,0 +1,2 @@
+ANN Model Name,Training Mean Error,Testing Mean Error Without Simulation,Testing Mean Error With Simulation,Final Train Error,Final Train Loss,Final Val Error,Final Val Loss,Time/Iteration
+MLP_L_1_TS_1,2.34465882036381,28.695201047805334,29.12762415709201,0.38035041093826294,0.7486915588378906,0.4490785598754883,0.00526236928999424,0.0025301629846746273

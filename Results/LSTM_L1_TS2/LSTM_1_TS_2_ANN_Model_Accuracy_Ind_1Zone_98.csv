@@ -1,0 +1,2 @@
+ANN Model Name,Training Mean Error,Testing Mean Error Without Simulation,Testing Mean Error With Simulation,Final Train Error,Final Train Loss,Final Val Error,Final Val Loss,Time/Iteration
+LSTM_1_TS_2,0.9984821912453314,3.0109235389191458,40.82996194807058,0.0128925247117877,0.019003836438059807,388.2471618652344,443.41455078125,0.007742241175487788

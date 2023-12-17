@@ -1,0 +1,2 @@
+ANN Model Name,Training Mean Error,Testing Mean Error Without Simulation,Testing Mean Error With Simulation,Final Train Error,Final Train Loss,Final Val Error,Final Val Loss,Time/Iteration
+GRU_1_TS_2,0.8483314267213474,2.142540432395462,15.472707983108478,0.008277172222733498,0.0006266981363296509,374.4953308105469,484.96722412109375,0.007140766490589489
